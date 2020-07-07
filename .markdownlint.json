@@ -6,7 +6,6 @@
 
     "_comment2": "Temporarily ignore these, they can be checked in the future",
     "blanks-around-lists": false,
-    "commands-show-output": false,
     "no-bare-urls": false,
     "no-blanks-blockquote": false,
     "ol-prefix": false,
